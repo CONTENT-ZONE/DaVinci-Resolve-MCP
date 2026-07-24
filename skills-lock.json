@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "find-skills": {
+      "source": "d:\\00 REPOS\\Claude-Skill-Search",
+      "sourceType": "local",
+      "computedHash": "645b891da1edbae76ab79c7b088d4e73397464f8396edaf773c0e01971ce75d6"
+    }
+  }
+}
