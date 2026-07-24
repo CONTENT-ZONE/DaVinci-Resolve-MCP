@@ -115,3 +115,11 @@ davinci-resolve-mcp-analysis/
 # capture script, and one-off repro scripts. Never shipped. See local/README.md.
 /local/
 .claude/launch.json
+
+# Context-Matrix Global Brain tracking (Local Only)
+MATRIX_NODE_LINK.md
+.agents/
+Current_Status/
+Git-Process.md
+skills-lock.json
+Knowledge/
